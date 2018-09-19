@@ -3,12 +3,12 @@
   "message": "",
   "data": {
     "ios":{
-      "version":"2.0.091716",
+      "version":"2.0.091817",
       "url":"https://fir.im/gr5x",
       "description":"<h3>更新:</h3><p>更新了xxx</p>"
     },
     "android":{
-      "version":"2.0.091716",
+      "version":"2.0.091817",
       "url":"https://fir.im/bk32",
       "description":"<h3>更新:</h3><p>更新了xxx</p>"
     }
